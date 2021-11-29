@@ -7,25 +7,25 @@ Face recognition is a method of identifying or verifying the identity of an indi
 
 
 
-#NTRODUCTION
+# NTRODUCTION
 Face recognition systems are part of facial image processing applications and their significance as a research area are increasing recently. They use biometric information of humans and  are applicable easily instead of fingerprint
 
 
 
-#DESIGN 
+# DESIGN 
 various methods and combination of these methods can be applied in  development  of  a  new  face  recognition  system.
 
 
 
 
 	
-#Algorithm
+# Algorithm
 The most evident face features were used in the beginning of face recognition. It was a sensible approach to mimic human face recognition ability. There was an effort to try to measure the importance of certain intuitive features (mouth, eyes, cheeks) and geometric measures (between-eye distance, width-length ratio). Nowadays is still an relevant issue, mostly because discarding certain facial features or parts of a face can lead to a better performance .
 
 
 
 
-#The problem
+# The problem
 improved the performance of automated face recognition algorithms on a variety of challenging face recognition tasks. Because humans currently perform face recognition tasks in most real-world security situations, it is unclear whether the use of algorithms improves security or puts it at greater risk.
 
 
@@ -35,7 +35,7 @@ improved the performance of automated face recognition algorithms on a variety o
 
 
 
-#Emotion Detection Use Cases: TSA Screening, Audience Engagement, And More
+# Emotion Detection Use Cases: TSA Screening, Audience Engagement, And More
 
 Understanding contextual emotion has widespread consequences for society and business. In the public sphere, governmental organizations could make good use of the ability to detect emotions like guilt, fear, and uncertainty. It’s not hard to imagine the TSA auto-scanning airline passengers for signs of terrorism, and in the process making the world a safer place.
 
@@ -46,6 +46,6 @@ Companies have also been taking advantage of emotion recognition to drive busine
 This is all actionable information that organizations and businesses can use to understand their customers and create products that people like. But it’s not exactly a piece of cake to get a product like this working in practice.
 
 
-#Data
+# Data
 This project is one of the T5 Data Science BootCamp requirements. Kaggle website https://www.kaggle.com/gauravsharma99/facial-emotion-recognition/data 
 
